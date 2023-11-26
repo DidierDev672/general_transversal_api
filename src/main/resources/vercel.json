@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "../java/org/acme",
+      "use": "@vercel/quarkus"
+    }
+  ]
+}
